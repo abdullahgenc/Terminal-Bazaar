@@ -1,5 +1,4 @@
-# week1_work1
-ilk ödev
+# Terminal Bazaar - Pazarama iOS Bootcamp
 
 # Pazarama iOS Bootcamp – Hafta 1 – Ödev  
 Bir konsept üzerine kurulu pazar yeri uygulaması yapacağız. Bu konsept bir film, anime, video
