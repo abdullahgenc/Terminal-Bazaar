@@ -1,13 +1,13 @@
 # Terminal Bazaar - Pazarama iOS Bootcamp
 
-# Pazarama iOS Bootcamp – Hafta 1 – Ödev  
+## Pazarama iOS Bootcamp – Hafta 1 – Ödev  
 Bir konsept üzerine kurulu pazar yeri uygulaması yapacağız. Bu konsept bir film, anime, video
 oyun, kitap vb. herhangi bir fikri mülk üstüne kurulabilir. Konsept yazılım geliştirme
 süreçlerini çok etkilemese de(ki etkileye de bilir) süreci eğlenceli ve üretken bir hale
 getirebilir. Konsept seçiminde saçmalamaktan çekinmeyin. 🤘🏻
 Aşağıda bir örnek üstünden yapacağımız uygulama ile ilgili detaylara erişebilirsiniz.  
 
-# Şirinlesene  
+## Şirinlesene  
 Şirinlesene uygulaması, şirinler köyünde kullanılmak üzere geliştirilmiş bir pazar yeri
 uygulamasıdır. Bu uygulama üstünde; gözlüklü şirinler için gözlük, usta şirinler için çekiç,
 şirineler için topuklu ayakkabı, bebek şirinler için emzik vb. pek çok ürün(hayal gücünüz ile
